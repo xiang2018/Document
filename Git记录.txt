@@ -1,0 +1,17 @@
+工作区和暂存区
+	工作区：电脑里能看到的目录 例如GIT
+	版本区：.git 即git版本库
+		版本库中存在两个概念
+								     HEAD (head指针指向master分支)
+								      |
+	工作区			stage			master
+			--->			---->
+			add			    commit
+		
+管理修改
+	Git跟踪并管理的是修改，而非文件
+	stupid boss
+
+把远程工作区clone到本地(两种方式 https ssh)
+	git clone git@github.com:xiang2018/Document.git
+	* 没找到GUI怎么操作 -_-
