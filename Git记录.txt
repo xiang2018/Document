@@ -33,5 +33,7 @@
 	GUI:Branch -> Create
 提交分支
 
+本地合并
+
 	
 	
