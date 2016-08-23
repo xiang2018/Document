@@ -26,3 +26,6 @@
 	在以后的推送或者拉取时就可以简化命令
 	git push origin master
 	
+从远程获取更新
+	
+	
