@@ -26,6 +26,9 @@
 	在以后的推送或者拉取时就可以简化命令
 	git push origin master
 	
-从远程获取更新
+创建分支
+	GUI:Branch -> Create
+提交分支
+合并分支
 	
 	
