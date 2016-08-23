@@ -33,15 +33,5 @@
 	GUI:Branch -> Create
 提交分支
 
-本地合并
-	想法：1. 把最新改动提交到本地新建分支
-			2. 切换到分支master
-			3. 把远程更新合并到本地master分支
-			4. 切换到新建分支，本地合并，提交
-			
-		或者 把远程更新直接合并到本地新建分支
-		
-	
-
-	
+commited by my dear friend Tom!	
 	
